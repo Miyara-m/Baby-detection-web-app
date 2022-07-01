@@ -1,0 +1,25 @@
+body
+{
+    background-size: cover;
+    text-align: center;
+    background-position: center;
+}
+a
+{
+ color:rgb(75, 94, 41);
+ background-color: rgb(209, 186, 255);
+ border-width: 5px;
+ border-radius: 3px;
+ border-color: mediumorchid;
+ height: 30px;
+ width: 60px;
+ float: right;
+ font-size: 13px;
+}
+canvas
+{
+    border-radius: 7px;
+    border-color: goldenrod;
+    border-width: 5px;
+    margin-top: 105px;
+}
